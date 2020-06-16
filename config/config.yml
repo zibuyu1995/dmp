@@ -1,0 +1,12 @@
+db:
+  host: 127.0.0.1
+  port: 5432
+  database: dmp
+  username: dmp
+  password: public
+broker:
+  host: 127.0.0.1
+  port: 11883
+  appID: dmp
+  appSecret: dmp
+
